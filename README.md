@@ -4,7 +4,7 @@ BlogSpace é um projeto de front-end que simula um cartão de blog responsivo e 
 
 ## 📸 Preview
 
-![BlogSpace Preview](blog-image.png)
+![BlogSpace Preview](blog-Image.png)
 
 ## 🚀 Funcionalidades
 
